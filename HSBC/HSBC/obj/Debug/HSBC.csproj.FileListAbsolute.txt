@@ -1,0 +1,56 @@
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\bin\Debug\HSBC.exe.config
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\bin\Debug\HSBC.exe
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\bin\Debug\HSBC.pdb
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\obj\Debug\HSBC.csproj.App.config
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\obj\Debug\HSBC.csprojResolveAssemblyReference.cache
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\obj\Debug\HSBC.Form1.resources
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\obj\Debug\HSBC.Properties.Resources.resources
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\obj\Debug\HSBC.csproj.GenerateResource.Cache
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\obj\Debug\HSBC.exe
+c:\users\programing\documents\visual studio 2015\Projects\HSBC\HSBC\obj\Debug\HSBC.pdb
+C:\Users\black\Desktop\HSBC\HSBC\bin\Debug\HSBC.exe.config
+C:\Users\black\Desktop\HSBC\HSBC\obj\Debug\HSBC.exe
+C:\Users\black\Desktop\HSBC\HSBC\obj\Debug\HSBC.pdb
+C:\Users\black\Desktop\HSBC\HSBC\bin\Debug\HSBC.exe
+C:\Users\black\Desktop\HSBC\HSBC\bin\Debug\HSBC.pdb
+C:\Users\black\Desktop\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\black\Desktop\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\black\Desktop\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\black\Desktop\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\black\Desktop\HSBC\HSBC\obj\Debug\HSBC.csproj.App.config
+C:\Users\black\Desktop\HSBC\HSBC\obj\Debug\HSBC.csprojResolveAssemblyReference.cache
+C:\Users\black\Desktop\HSBC\HSBC\obj\Debug\HSBC.Form1.resources
+C:\Users\black\Desktop\HSBC\HSBC\obj\Debug\HSBC.Properties.Resources.resources
+C:\Users\black\Desktop\HSBC\HSBC\obj\Debug\HSBC.csproj.GenerateResource.Cache
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\bin\Debug\HSBC.exe.config
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\obj\Debug\HSBC.exe
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\obj\Debug\HSBC.pdb
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\obj\Debug\HSBC.csproj.App.config
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\obj\Debug\HSBC.csprojResolveAssemblyReference.cache
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\obj\Debug\HSBC.Form1.resources
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\obj\Debug\HSBC.Properties.Resources.resources
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\obj\Debug\HSBC.csproj.GenerateResource.Cache
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\bin\Debug\HSBC.exe
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\bin\Debug\HSBC.pdb
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\black\Desktop\Checkers\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\bin\Debug\HSBC.exe.config
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\obj\Debug\HSBC.exe
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\obj\Debug\HSBC.pdb
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\bin\Debug\HSBC.exe
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\bin\Debug\HSBC.pdb
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\obj\Debug\HSBC.csproj.App.config
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\obj\Debug\HSBC.csprojResolveAssemblyReference.cache
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\obj\Debug\HSBC.Form1.resources
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\obj\Debug\HSBC.Properties.Resources.resources
+C:\Users\black\Desktop\Checkers_Visual\HSBC\HSBC\obj\Debug\HSBC.csproj.GenerateResource.Cache
