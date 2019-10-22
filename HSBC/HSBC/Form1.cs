@@ -77,7 +77,7 @@ namespace HSBC
         static public async Task<string> chk(string cc, string mes, string ano, string cvv,string country,string state,string city,string zipcode)
         {
             
-            //string URL = "https://website.com/donate";
+            //string URL = "https://secure2.convio.net/unfpa/site/Donation2";
             //CookieContainer MyCookies = new CookieContainer();
             //ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12 | SecurityProtocolType.Ssl3;
             //HttpWebRequest request = WebRequest.CreateHttp(URL);
